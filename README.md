@@ -47,7 +47,7 @@ Medulloblastoma is the most common malignant pediatric brain tumor. Accurate sub
 
 ```bash
 # Clone the repository
-git clone https://github.com/bsc-health/bitsxlamarato-medulloblastoma.git
+git clone https://github.com/gprolcastelo/bitsxlamarato-medulloblastoma.git
 cd bitsxlamarato-medulloblastoma
 
 # Create and activate virtual environment
@@ -62,7 +62,7 @@ pip install -r requirements.txt
 
 ```bash
 # Clone the repository
-git clone https://github.com/bsc-health/bitsxlamarato-medulloblastoma.git
+git clone https://github.com/gprolcastelo/bitsxlamarato-medulloblastoma.git
 cd bitsxlamarato-medulloblastoma
 
 # Create conda environment
@@ -74,7 +74,7 @@ conda activate medulloblastoma
 
 ```bash
 # Clone the repository
-git clone https://github.com/bsc-health/bitsxlamarato-medulloblastoma.git
+git clone https://github.com/gprolcastelo/bitsxlamarato-medulloblastoma.git
 cd bitsxlamarato-medulloblastoma
 
 # Create mamba environment
@@ -354,7 +354,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Jose Estragues** - [jose.estragues@bsc.es]
 - **Guillermo Prol** - [guillermo.prolcastelo@bsc.es]
-- **Project Link**: [https://github.com/bsc-health/bitsxlamarato-medulloblastoma]
+- **Project Link**: [https://github.com/gprolcastelo/bitsxlamarato-medulloblastoma]
 
 ---
 
